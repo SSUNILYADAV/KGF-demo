@@ -1,2 +1,2 @@
 # KGF-demo
-This is Demo for Git &amp; Github class
+This is Demo for Git &amp; Github class.
